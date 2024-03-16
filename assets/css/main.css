@@ -5002,7 +5002,7 @@ img {
 .cc-contact-information {
   width: 100%;
   position: relative;
-  overflow: hidden;
+  background-size: cover;
 }
 
 .cc-contact-information .cc-contact {
